@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UTS_Booking_Hoote</string>
+
+    <string-array name="booking_hotel">
+        <item>Ancol</item>
+        <item>Ascoot</item>
+        <item>GandariaCity</item>
+        <item>Garnesia</item>
+        <item>GrenMelia</item>
+        <item>Luxury</item>
+        <item>MuliaSenayan</item>
+    </string-array>
+
+    <string-array name="lokasi">
+        <item>Senayan</item>
+        <item>Kebayoran</item>
+        <item>Permata hijau</item>
+        <item>Kuningan</item>
+        <item>Pasar minggu</item>
+        <item>Lebak bulus</item>
+        <item>Pondok Indah</item>
+    </string-array>
+</resources>
